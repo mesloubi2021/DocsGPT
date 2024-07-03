@@ -95,7 +95,7 @@ sympy==1.11.1
 tenacity==8.2.2
 threadpoolctl==3.1.0
 tiktoken
-tqdm==4.66.3
+tqdm==4.66.4
 transformers==4.42.3
 typer==0.7.0
 typing-inspect==0.8.0
